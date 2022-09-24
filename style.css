@@ -1,0 +1,25 @@
+body {
+  background: lightblue;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+.bulb-off,
+.bulb-on {
+  width: 612px;
+  height: 512px;
+  margin: auto;
+}
+
+.bulb-off {
+  background: url("https://media.istockphoto.com/photos/light-bulb-picture-id605986888?s=612x612")
+    no-repeat;
+}
+
+.bulb-on {
+  background: url("https://media.istockphoto.com/photos/light-bulb-picture-id605986936?s=612x612")
+    no-repeat;
+}
